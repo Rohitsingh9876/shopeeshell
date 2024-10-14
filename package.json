@@ -2,7 +2,7 @@
   "name": "shopeefrontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rohitsingh9876.github.io/shopeefrontend",
+  "homepage": "https://github.com/Rohitsingh9876/shopeeshell.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
