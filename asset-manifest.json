@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rohitsingh9876/shopeeshell.git/static/css/main.79d19d76.css",
-    "main.js": "/Rohitsingh9876/shopeeshell.git/static/js/main.84425759.js",
-    "static/js/453.d172f49b.chunk.js": "/Rohitsingh9876/shopeeshell.git/static/js/453.d172f49b.chunk.js",
-    "index.html": "/Rohitsingh9876/shopeeshell.git/index.html",
-    "main.79d19d76.css.map": "/Rohitsingh9876/shopeeshell.git/static/css/main.79d19d76.css.map",
-    "main.84425759.js.map": "/Rohitsingh9876/shopeeshell.git/static/js/main.84425759.js.map",
-    "453.d172f49b.chunk.js.map": "/Rohitsingh9876/shopeeshell.git/static/js/453.d172f49b.chunk.js.map"
+    "main.css": "/shopeeshell/static/css/main.79d19d76.css",
+    "main.js": "/shopeeshell/static/js/main.c70e3a03.js",
+    "static/js/453.d172f49b.chunk.js": "/shopeeshell/static/js/453.d172f49b.chunk.js",
+    "index.html": "/shopeeshell/index.html",
+    "main.79d19d76.css.map": "/shopeeshell/static/css/main.79d19d76.css.map",
+    "main.c70e3a03.js.map": "/shopeeshell/static/js/main.c70e3a03.js.map",
+    "453.d172f49b.chunk.js.map": "/shopeeshell/static/js/453.d172f49b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.84425759.js"
+    "static/js/main.c70e3a03.js"
   ]
 }
